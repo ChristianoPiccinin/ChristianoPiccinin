@@ -1,16 +1,25 @@
-### Hi there 👋
+# <p align="left"> Looking for a Data Engineer? Christiano,  👨🏻‍💻 </p>
 
-<!--
-**ChristianoPiccinin/ChristianoPiccinin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Who am I ?
+- 💻 Data Enginner.
+- 🎓 Bachelor of Computer Information Systems - UNIVILLE.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certificated
+- Microsoft Certified: DP-900 - Azure Data Fundamentals (2022)
+- Microsoft Certified: AZ-900 - Azure Fundamentals (2021)
+
+## Skills - Proficient 💻
+- 🐍 Python  
+- 📋 SQL 
+- 🧮 Power BI 
+- #️⃣ C#
+- ☁️ Azure 
+- ☁️ AWS
+
+## Skills - Studying 👨🏻‍🎓
+- 🎇 Pyspark
+- 🛠️ AirFlow
+
+
+## Projects 
