@@ -20,6 +20,3 @@
 ## Skills - Studying 👨🏻‍🎓
 - 🎇 Pyspark
 - 🛠️ AirFlow
-
-
-## Projects 
