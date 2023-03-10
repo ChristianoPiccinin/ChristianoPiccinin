@@ -6,6 +6,8 @@
 
 
 ## Certificated
+- Microsoft Certified: DP-203 – Microsoft Azure Data Engineer Associate (2023)
+- Microsoft Certified: AI-900 – Microsoft AI Fundamentals (2023)
 - Microsoft Certified: DP-900 - Azure Data Fundamentals (2022)
 - Microsoft Certified: AZ-900 - Azure Fundamentals (2021)
 
@@ -15,8 +17,8 @@
 - 📋 SQL 
 - 🧮 Power BI 
 - #️⃣ C#
-- ☁️ Azure 
-- ☁️ AWS
+- ☁️ Azure (Data Factory, Storage, Database, Web Apps, Functions)
+- ☁️ AWS (EC2, S3, GLUE, Step Functions, Lambda)
 
 ## Skills - Studying 👨🏻‍🎓
 - 🎇 Pyspark
