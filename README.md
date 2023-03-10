@@ -1,7 +1,7 @@
 # <p align="left"> Looking for a Data Engineer? Bond, Jam.. Christiano 👨🏻‍💻 </p> 
 
 ## Who am I ?
-- 💻 Software Developer, Data Enginner. 
+- 💻 Software Developer, Data Engineer. 
 - 🎓 Bachelor of Computer Information Systems - UNIVILLE.
 
 
