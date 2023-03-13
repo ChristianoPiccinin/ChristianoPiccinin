@@ -1,4 +1,4 @@
-# <p align="left"> Looking for a Data Engineer? Bond, Jam.. Christiano 👨🏻‍💻 </p> 
+# <p align="left"> Looking for a Data Engineer? 👨🏻‍💻 </p> 
 
 ## Who am I ?
 - 💻 Software Developer, Data Engineer. 
