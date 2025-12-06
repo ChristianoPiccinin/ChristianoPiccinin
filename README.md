@@ -46,7 +46,7 @@ Sou **Christiano Piccinin**, Arquiteto e Engenheiro de Dados com mais de **10 an
 
 ### ⭐ 1. Data Lakehouse na Azure (Fim-a-Fim)
 📌 Arquitetura completa com ADF + Databricks + Synapse + Terraform
-🔗 https://github.com/ChristianoPiccinin/aks-data-platform
+🔗 [https://github.com/ChristianoPiccinin/aks-data-platform](https://github.com/ChristianoPiccinin/azure-dataplataform-iac)
 
 
 ---
