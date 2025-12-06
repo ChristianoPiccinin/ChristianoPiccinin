@@ -45,20 +45,9 @@ Sou **Christiano Piccinin**, Arquiteto e Engenheiro de Dados com mais de **10 an
 ## 📚 Projetos Destaque
 
 ### ⭐ 1. Data Lakehouse na Azure (Fim-a-Fim)
-📌 Arquitetura completa com ADF + Databricks + Delta + CI/CD  
+📌 Arquitetura completa com ADF + Databricks + Synapse + Terraform
 🔗 https://github.com/ChristianoPiccinin/aks-data-platform
 
-### ⭐ 2. ETL/ELT AWS – Glue + Step Functions + S3
-📌 Pipeline escalável e orquestrado  
-🔗 https://github.com/ChristianoPiccinin/case-etl-aws-1
-
-### ⭐ 3. ETL Azure – Data Factory + Functions + Storage
-📌 Ingestão serverless com boas práticas  
-🔗 https://github.com/ChristianoPiccinin/case-etl-azure-1
-
-### ⭐ 4. Pipelines PySpark em Databricks
-📌 Bronze → Silver → Gold com Delta Lake  
-🔗 (adicione quando subir o repositório)
 
 ---
 
